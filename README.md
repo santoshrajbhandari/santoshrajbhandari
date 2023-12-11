@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
-<h3 align="center"> Passionate in ML</h3>
+<h3 align="center"> A Learner.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
